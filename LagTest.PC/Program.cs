@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace LatTest.PC {
+namespace LagTest.PC {
     class Program {
         static void Main(string[] args) {
             string testText = "Test Lag.";
